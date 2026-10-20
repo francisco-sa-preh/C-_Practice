@@ -1,0 +1,15 @@
+/workspaces/C-_Practice/EX3/bin/Debug/net10.0/EX3
+/workspaces/C-_Practice/EX3/bin/Debug/net10.0/EX3.deps.json
+/workspaces/C-_Practice/EX3/bin/Debug/net10.0/EX3.runtimeconfig.json
+/workspaces/C-_Practice/EX3/bin/Debug/net10.0/EX3.dll
+/workspaces/C-_Practice/EX3/bin/Debug/net10.0/EX3.pdb
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/EX3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/EX3.AssemblyInfoInputs.cache
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/EX3.AssemblyInfo.cs
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/EX3.csproj.CoreCompileInputs.cache
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/EX3.sourcelink.json
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/EX3.dll
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/refint/EX3.dll
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/EX3.pdb
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/EX3.genruntimeconfig.cache
+/workspaces/C-_Practice/EX3/obj/Debug/net10.0/ref/EX3.dll
