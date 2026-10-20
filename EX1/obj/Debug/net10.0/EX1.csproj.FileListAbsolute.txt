@@ -1,0 +1,15 @@
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/EX1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/EX1.AssemblyInfoInputs.cache
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/EX1.AssemblyInfo.cs
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/EX1.csproj.CoreCompileInputs.cache
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/EX1.sourcelink.json
+/workspaces/C-_Practice/EX1/bin/Debug/net10.0/EX1
+/workspaces/C-_Practice/EX1/bin/Debug/net10.0/EX1.deps.json
+/workspaces/C-_Practice/EX1/bin/Debug/net10.0/EX1.runtimeconfig.json
+/workspaces/C-_Practice/EX1/bin/Debug/net10.0/EX1.dll
+/workspaces/C-_Practice/EX1/bin/Debug/net10.0/EX1.pdb
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/EX1.dll
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/refint/EX1.dll
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/EX1.pdb
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/EX1.genruntimeconfig.cache
+/workspaces/C-_Practice/EX1/obj/Debug/net10.0/ref/EX1.dll
